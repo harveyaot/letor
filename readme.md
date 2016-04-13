@@ -3,7 +3,7 @@ Expriments on Microsoft's learning to rank dataset
 
 
 
-1. Metrics:(NCDG) implement in metrics.py
+1. Metrics:(NDCG) implement in metrics.py
 
 2. Experiments Road
 
@@ -30,4 +30,3 @@ Expriments on Microsoft's learning to rank dataset
     5. `config.py` some basic config on logging moudle and CONST
 
     6. `validate_rank.py` compare the performance of rankers.
-
